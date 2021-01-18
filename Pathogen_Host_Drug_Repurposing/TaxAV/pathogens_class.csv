@@ -1,0 +1,535 @@
+Name,taxID,Host_parsed,Human_host
+Anopheles gambiae,7165,Non-Viral_Metazoa,0
+Blood fluke,6183,Non-Viral_Metazoa,0
+Caenorhabditis elegans,6239,Non-Viral_Metazoa,0
+Canis lupus familiaris,9615,Non-Viral_Metazoa,0
+Fasciola hepatica,6192,Non-Viral_Metazoa,0
+Humans,9606,Non-Viral_Metazoa,0
+Mouse,10090,Non-Viral_Metazoa,0
+Onchocerca volvulus,6282,Non-Viral_Metazoa,0
+Pediculus humanus,121225,Non-Viral_Metazoa,0
+Pig roundworm,6253,Non-Viral_Metazoa,0
+Rat,10116,Non-Viral_Metazoa,0
+BVDV,11100,human|vertebrates,1
+Coxsackievirus A21,12069,human|vertebrates,1
+Coxsackievirus A21 (strain Coe),12070,human|vertebrates,1
+Coxsackievirus A9 (strain Griggs),12068,human|vertebrates,1
+Coxsackievirus B3 (strain Woodruff),103904,human|vertebrates,1
+DENV-2,11066,human|invertebrates|vertebrates,1
+DENV-3,408870,human|invertebrates|vertebrates,1
+E-1,103908,human|vertebrates,1
+Echovirus 11 (strain Gregory),31705,human|vertebrates,1
+HAdV-2,10515,human|vertebrates,1
+HBV,10407,human|vertebrates,1
+HBV-D,10411,human|vertebrates,1
+HBV-F,45410,human|vertebrates,1
+HCV,11116,human|vertebrates,1
+Hepatitis C Virus,11103,human|vertebrates,1
+Hepatitis C virus subtype 1b,31647,human|vertebrates,1
+HHAV,12100,human|vertebrates,1
+HHV-1,10299,human|vertebrates,1
+HHV-3,10338,human,1
+HHV-4,10377,human|vertebrates,1
+HHV-5,10360,human,1
+HIV-1,11685,human|vertebrates,1
+HIV-2,11720,human,1
+HPIV-2,11214,human|vertebrates,1
+HPIV-3,11221,human|vertebrates,1
+HRV-14,12131,human,1
+HRV-16,31708,human|vertebrates,1
+HRV-1A,12134,human|vertebrates,1
+HRV-2,12130,human|vertebrates,1
+Human adenovirus 19,28278,human|vertebrates,1
+Human adenovirus D37,52275,human|vertebrates,1
+Human Cytomegalovirus,295027,human,1
+Human cytomegalovirus (strain Towne),10363,human,1
+Human herpesvirus 1,10298,human|vertebrates,1
+Human herpesvirus 2 (strain 186),10312,human|vertebrates,1
+Human Immunodeficiency Virus,12721,human,1
+Human immunodeficiency virus 1,11676,human|vertebrates,1
+Human papillomavirus type 11,10580,human|vertebrates,1
+Human respiratory syncytial virus B (strain 18537),11251,human,1
+Influenza A virus (strain A/Aichi/2/1968 H3N2),387139,human|vertebrates,1
+Influenza A virus (strain A/Ann Arbor/6/1960 H2N2),384498,human|vertebrates,1
+Influenza A virus (strain A/Bangkok/1/1979 H3N2),385630,human|vertebrates,1
+Influenza A virus (strain A/Beijing/11/1956 H1N1),384500,human|vertebrates,1
+Influenza A virus (strain A/Chile/1/1983 H1N1),380985,human|vertebrates,1
+Influenza A virus (strain A/Mallard/Astrakhan/244/1982 H14N6),11433,human|vertebrates,1
+Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),211044,human|vertebrates,1
+Influenza A virus (strain A/Silky Chicken/Hong Kong/SF189/2001 H5N1 genotype A),196430,human|vertebrates,1
+Influenza A virus (strain A/Tern/Australia/G70C/1975 H11N9),384509,human|vertebrates,1
+Influenza A virus (strain A/Tokyo/3/1967 H2N2),380960,human|vertebrates,1
+Influenza B virus (strain B/Beijing/1/1987),11525,human|vertebrates,1
+Influenza B virus (strain B/Lee/1940),518987,human|vertebrates,1
+MeV,11235,human|vertebrates,1
+MoMLV,928306,human|vertebrates,1
+NDV,11178,human|vertebrates,1
+Poliovirus type 1 (strain Mahoney),12081,human|vertebrates,1
+Poliovirus type 2 (strain Lansing),12084,human|vertebrates,1
+Poliovirus type 3 (strains P3/Leon/37 and P3/Leon 12A[1]B),12088,human|vertebrates,1
+Rabies virus (strain Pasteur vaccins / PV),103929,human|vertebrates,1
+SARS-CoV,694009,human|vertebrates,1
+SINV,11034,human|invertebrates|vertebrates,1
+SIV-mac,11733,human|vertebrates,1
+SVDV,12077,human|vertebrates,1
+T3D,10886,human|vertebrates,1
+VACV,10254,human|vertebrates,1
+Variola virus (isolate Human/India/Ind3/1967),587200,human,1
+VEEV,11038,human|invertebrates|vertebrates,1
+Zaire ebolavirus (strain Mayinga-76),128952,human|vertebrates,1
+Acetobacter aceti,435,Non-Viral_Bacteria,2
+Achromobacter cycloclastes,223,Non-Viral_Bacteria,2
+Achromobacter lyticus,224,Non-Viral_Bacteria,2
+Acidaminococcus fermentans (strain ATCC 25085 / DSM 20731 / VR4),591001,Non-Viral_Bacteria,2
+Acidithiobacillus ferrooxidans,920,Non-Viral_Bacteria,2
+Acidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455),243159,Non-Viral_Bacteria,2
+Acidothermus cellulolyticus (strain ATCC 43068 / 11B),351607,Non-Viral_Bacteria,2
+Acinetobacter baumannii,470,Non-Viral_Bacteria,2
+Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1),62977,Non-Viral_Bacteria,2
+Acinetobacter calcoaceticus,471,Non-Viral_Bacteria,2
+Actinomadura sp. (strain R39),72570,Non-Viral_Bacteria,2
+Actinoplanes missouriensis (strain ATCC 14538 / DSM 43046 / CBS 188.64 / JCM 3121 / NCIMB 12654 / NBRC 102363 / 431),512565,Non-Viral_Bacteria,2
+Actinoplanes teichomyceticus,1867,Non-Viral_Bacteria,2
+Aeromonas caviae,648,Non-Viral_Bacteria,2
+Aeromonas hydrophila,644,Non-Viral_Bacteria,2
+Agrobacterium fabrum (strain C58 / ATCC 33970),176299,Non-Viral_Bacteria,2
+Agrobacterium sp. (strain KNK712),252128,Non-Viral_Bacteria,2
+Agrobacterium tumefaciens,358,Non-Viral_Bacteria,2
+Alcaligenes faecalis,511,Non-Viral_Bacteria,2
+Alcaligenes sp.,512,Non-Viral_Bacteria,2
+Alcaligenes sp. (strain DSM 11172),242601,Non-Viral_Bacteria,2
+Alcaligenes sp. AL3007,206162,Non-Viral_Bacteria,2
+Alcaligenes xylosoxydans xylosoxydans,85698,Non-Viral_Bacteria,2
+Alicyclobacillus acidocaldarius,1388,Non-Viral_Bacteria,2
+Alicyclobacillus acidocaldarius subsp. acidocaldarius (strain ATCC 27009 / DSM 446 / JCM 5260 / NBRC 15652 / NCIMB 11725 / NRRL B-14509 / 104-1A),521098,Non-Viral_Bacteria,2
+Aliivibrio fischeri,668,Non-Viral_Bacteria,2
+Alteromonas fortis,28108,Non-Viral_Bacteria,2
+Amycolatopsis orientalis,31958,Non-Viral_Bacteria,2
+Amycolatopsis sp.,37632,Non-Viral_Bacteria,2
+Anabaena sp.,1167,Non-Viral_Bacteria,2
+Antarctic bacterium DS2-3R,56673,Non-Viral_Bacteria,2
+Aquaspirillum arcticum,87645,Non-Viral_Bacteria,2
+Aquifex aeolicus (strain VF5),224324,Non-Viral_Bacteria,2
+Aquifex pyrophilus,2714,Non-Viral_Bacteria,2
+Arthrobacter aurescens,43663,Non-Viral_Bacteria,2
+Arthrobacter globiformis,1665,Non-Viral_Bacteria,2
+Arthrobacter sp.,1667,Non-Viral_Bacteria,2
+Arthrobacter sp. (strain KM),184230,Non-Viral_Bacteria,2
+Arthrobacter sp. (strain NRRL B3728),1669,Non-Viral_Bacteria,2
+Arthrospira maxima,129910,Non-Viral_Bacteria,2
+Arthrospira platensis,118562,Non-Viral_Bacteria,2
+Arthrospira platensis HN01,437476,Non-Viral_Bacteria,2
+Azospirillum brasilense,192,Non-Viral_Bacteria,2
+Azotobacter vinelandii,354,Non-Viral_Bacteria,2
+Bacillus agaradhaerens,76935,Non-Viral_Bacteria,2
+Bacillus alcalophilus,1445,Non-Viral_Bacteria,2
+Bacillus amyloliquefaciens,1390,Non-Viral_Bacteria,2
+Bacillus anthracis,191218,Non-Viral_Bacteria,2
+Bacillus caldolyticus,1394,Non-Viral_Bacteria,2
+Bacillus caldovelox,33931,Non-Viral_Bacteria,2
+Bacillus cereus,1396,Non-Viral_Bacteria,2
+Bacillus cereus (strain ATCC 10987 / NRS 248),222523,Non-Viral_Bacteria,2
+Bacillus cereus (strain ATCC 14579 / DSM 31 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NRRL B-3711),226900,Non-Viral_Bacteria,2
+Bacillus circulans,1397,Non-Viral_Bacteria,2
+Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125),272558,Non-Viral_Bacteria,2
+Bacillus lentus,1467,Non-Viral_Bacteria,2
+Bacillus licheniformis,1402,Non-Viral_Bacteria,2
+Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46),279010,Non-Viral_Bacteria,2
+Bacillus megaterium,1404,Non-Viral_Bacteria,2
+Bacillus pumilus,1408,Non-Viral_Bacteria,2
+Bacillus sp.,1409,Non-Viral_Bacteria,2
+Bacillus sp. (strain 1011),1410,Non-Viral_Bacteria,2
+Bacillus sp. (strain 707),1416,Non-Viral_Bacteria,2
+Bacillus sp. (strain B-0618),69000,Non-Viral_Bacteria,2
+Bacillus sp. (strain GL1),84635,Non-Viral_Bacteria,2
+Bacillus sp. (strain HIL-Y85/54728),69002,Non-Viral_Bacteria,2
+Bacillus sp. (strain KSM-635),1415,Non-Viral_Bacteria,2
+Bacillus sp. (strain TB-90),36824,Non-Viral_Bacteria,2
+Bacillus sp. (strain YM-1),72579,Non-Viral_Bacteria,2
+Bacillus sp. KSM-KP43,109322,Non-Viral_Bacteria,2
+Bacillus subtilis,1423,Non-Viral_Bacteria,2
+Bacillus subtilis (strain 168),224308,Non-Viral_Bacteria,2
+Bacillus thermoproteolyticus,1427,Non-Viral_Bacteria,2
+Bacteroides fragilis,817,Non-Viral_Bacteria,2
+Bacteroides fragilis (strain ATCC 25285 / DSM 2151 / JCM 11019 / NCTC 9343),272559,Non-Viral_Bacteria,2
+Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482),226186,Non-Viral_Bacteria,2
+Bifidobacterium adolescentis (strain ATCC 15703 / DSM 20083 / NCTC 11814 / E194a),367928,Non-Viral_Bacteria,2
+Blastochloris viridis,1079,Non-Viral_Bacteria,2
+Bradyrhizobium diazoefficiens (strain JCM 10833 / IAM 13628 / NBRC 14792 / USDA 110),224911,Non-Viral_Bacteria,2
+Bradyrhizobium japonicum,375,Non-Viral_Bacteria,2
+Brevibacterium fuscum,47914,Non-Viral_Bacteria,2
+Brevibacterium sterolicum,1702,Non-Viral_Bacteria,2
+Brevundimonas diminuta,293,Non-Viral_Bacteria,2
+Brucella suis biovar 1 (strain 1330),204722,Non-Viral_Bacteria,2
+Burkholderia pseudomallei (strain 1710b),320372,Non-Viral_Bacteria,2
+Burkholderia pseudomallei (strain K96243),272560,Non-Viral_Bacteria,2
+Burkholderia xenovorans (strain LB400),266265,Non-Viral_Bacteria,2
+Butyrivibrio proteoclasticus,43305,Non-Viral_Bacteria,2
+Campylobacter jejuni,197,Non-Viral_Bacteria,2
+Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),192222,Non-Viral_Bacteria,2
+Caulobacter crescentus (strain ATCC 19089 / CB15),190650,Non-Viral_Bacteria,2
+Cellulomonas fimi,1708,Non-Viral_Bacteria,2
+Cellulomonas fimi (strain ATCC 484 / DSM 20113 / JCM 1341 / NBRC 15513 / NCIMB 8980 / NCTC 7547),590998,Non-Viral_Bacteria,2
+Cellulomonas sp.,40001,Non-Viral_Bacteria,2
+Cellvibrio japonicus,155077,Non-Viral_Bacteria,2
+Cellvibrio japonicus (strain Ueda107),498211,Non-Viral_Bacteria,2
+Cellvibrio mixtus,39650,Non-Viral_Bacteria,2
+Chlorobaculum parvum (strain NCIB 8327),517417,Non-Viral_Bacteria,2
+Chlorobium tepidum (strain ATCC 49652 / DSM 12025 / NBRC 103806 / TLS),194439,Non-Viral_Bacteria,2
+Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl),324602,Non-Viral_Bacteria,2
+Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757),243365,Non-Viral_Bacteria,2
+Citrobacter amalonaticus,35703,Non-Viral_Bacteria,2
+Citrobacter freundii,546,Non-Viral_Bacteria,2
+Citrobacter intermedius,66695,Non-Viral_Bacteria,2
+Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787),272562,Non-Viral_Bacteria,2
+Clostridium aminobutyricum,33953,Non-Viral_Bacteria,2
+Clostridium beijerinckii,1520,Non-Viral_Bacteria,2
+Clostridium botulinum,1491,Non-Viral_Bacteria,2
+Clostridium butyricum,1492,Non-Viral_Bacteria,2
+Clostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10),394503,Non-Viral_Bacteria,2
+Clostridium cellulovorans,1493,Non-Viral_Bacteria,2
+Clostridium perfringens,1502,Non-Viral_Bacteria,2
+Clostridium perfringens (strain 13 / Type A),195102,Non-Viral_Bacteria,2
+Clostridium sp. (strain F1),1508,Non-Viral_Bacteria,2
+Clostridium stercorarium,1510,Non-Viral_Bacteria,2
+Clostridium symbiosum,1512,Non-Viral_Bacteria,2
+Clostridium tetani (strain Massachusetts / E88),212717,Non-Viral_Bacteria,2
+Clostridium tetanomorphum,1553,Non-Viral_Bacteria,2
+Clostridium thermocellum,1515,Non-Viral_Bacteria,2
+Clostridium thermocellum (strain ATCC 27405 / DSM 1237 / NBRC 103400 / NCIMB 10682 / NRRL B-4536 / VPI 7372),203119,Non-Viral_Bacteria,2
+Comamonas testosteroni,285,Non-Viral_Bacteria,2
+Corynebacterium diphtheriae,1717,Non-Viral_Bacteria,2
+Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype gravis),257309,Non-Viral_Bacteria,2
+Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025),196627,Non-Viral_Bacteria,2
+Corynebacterium sp. (strain ATCC 31090),268952,Non-Viral_Bacteria,2
+Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34),266264,Non-Viral_Bacteria,2
+Cupriavidus necator (strain ATCC 17699 / H16 / DSM 428 / Stanier 337),381666,Non-Viral_Bacteria,2
+Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422),243230,Non-Viral_Bacteria,2
+Desulfovibrio africanus,873,Non-Viral_Bacteria,2
+Desulfovibrio baculatus (strain Norway 4),52561,Non-Viral_Bacteria,2
+Desulfovibrio desulfuricans,876,Non-Viral_Bacteria,2
+Desulfovibrio desulfuricans (strain ATCC 27774 / DSM 6949),525146,Non-Viral_Bacteria,2
+Desulfovibrio gigas,879,Non-Viral_Bacteria,2
+Desulfovibrio vulgaris (strain Hildenborough / ATCC 29579 / NCIMB 8303),882,Non-Viral_Bacteria,2
+Desulfovibrio vulgaris (strain Miyazaki F / DSM 19637),883,Non-Viral_Bacteria,2
+Desulfuromonas acetoxidans,891,Non-Viral_Bacteria,2
+Elizabethkingia meningoseptica,238,Non-Viral_Bacteria,2
+Ensifer meliloti,266834,Non-Viral_Bacteria,2
+Enterobacter aerogenes,548,Non-Viral_Bacteria,2
+Enterobacter cloacae,550,Non-Viral_Bacteria,2
+Enterobacter cloacae subsp. cloacae (strain ATCC 13047 / DSM 30054 / NBRC 13535 / NCDC 279-56),716541,Non-Viral_Bacteria,2
+Enterobacteriaceae bacterium (strain FGI 57),693444,Non-Viral_Bacteria,2
+Enterococcus faecalis,1351,Non-Viral_Bacteria,2
+Enterococcus faecalis (strain ATCC 700802 / V583),226185,Non-Viral_Bacteria,2
+Enterococcus faecium,1352,Non-Viral_Bacteria,2
+Enterococcus hirae,1354,Non-Viral_Bacteria,2
+Enterococcus hirae (strain ATCC 9790 / DSM 20160 / JCM 8729 / LMG 6399 / NBRC 3181 / NCIMB 6459 / NCDO 1258),768486,Non-Viral_Bacteria,2
+Escherichia coli,562,Non-Viral_Bacteria,2
+Escherichia coli (strain K12),83333,Non-Viral_Bacteria,2
+Escherichia coli O1:K1 / APEC,405955,Non-Viral_Bacteria,2
+Escherichia coli O157:H7,83334,Non-Viral_Bacteria,2
+Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC),199310,Non-Viral_Bacteria,2
+Finegoldia magna,1260,Non-Viral_Bacteria,2
+Fluoribacter gormanii,464,Non-Viral_Bacteria,2
+Geobacillus kaustophilus (strain HTA426),235909,Non-Viral_Bacteria,2
+Geobacillus stearothermophilus,1422,Non-Viral_Bacteria,2
+Geobacillus thermoglucosidasius,1426,Non-Viral_Bacteria,2
+Geobacter sulfurreducens,35554,Non-Viral_Bacteria,2
+Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA),243231,Non-Viral_Bacteria,2
+Haemophilus influenzae,727,Non-Viral_Bacteria,2
+Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd),71421,Non-Viral_Bacteria,2
+Haemophilus parahaemolyticus,735,Non-Viral_Bacteria,2
+Halorhodospira halophila,1053,Non-Viral_Bacteria,2
+Helicobacter pylori,210,Non-Viral_Bacteria,2
+Helicobacter pylori (strain ATCC 700392 / 26695),85962,Non-Viral_Bacteria,2
+Helicobacter pylori (strain J99 / ATCC 700824),85963,Non-Viral_Bacteria,2
+Janthinobacterium sp. (strain J3),213804,Non-Viral_Bacteria,2
+Klebsiella pneumoniae,573,Non-Viral_Bacteria,2
+Lactobacillus brevis,1580,Non-Viral_Bacteria,2
+Lactobacillus casei,1582,Non-Viral_Bacteria,2
+Lactobacillus delbrueckii subsp. lactis,29397,Non-Viral_Bacteria,2
+Lactobacillus helveticus,1587,Non-Viral_Bacteria,2
+Lactobacillus leichmannii,28039,Non-Viral_Bacteria,2
+Lactobacillus paracasei,1597,Non-Viral_Bacteria,2
+Lactobacillus plantarum,1590,Non-Viral_Bacteria,2
+Lactobacillus plantarum (strain ATCC BAA-793 / NCIMB 8826 / WCFS1),220668,Non-Viral_Bacteria,2
+Lactobacillus sp. (strain 30a),1593,Non-Viral_Bacteria,2
+Lactococcus lactis,1358,Non-Viral_Bacteria,2
+Lactococcus lactis subsp. cremoris,1359,Non-Viral_Bacteria,2
+Lactococcus lactis subsp. lactis,1360,Non-Viral_Bacteria,2
+Lactococcus lactis subsp. lactis (strain IL1403),272623,Non-Viral_Bacteria,2
+Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601),189518,Non-Viral_Bacteria,2
+Leuconostoc mesenteroides,1245,Non-Viral_Bacteria,2
+Listeria monocytogenes serotype 4b str. LL195,1230340,Non-Viral_Bacteria,2
+Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e),169963,Non-Viral_Bacteria,2
+Lysinibacillus sphaericus,1421,Non-Viral_Bacteria,2
+Lysobacter enzymogenes,69,Non-Viral_Bacteria,2
+Mannheimia haemolytica,75985,Non-Viral_Bacteria,2
+Marinobacter hydrocarbonoclasticus,2743,Non-Viral_Bacteria,2
+Mastigocladus laminosus,83541,Non-Viral_Bacteria,2
+Megasphaera elsdenii,907,Non-Viral_Bacteria,2
+Methylobacterium extorquens (strain ATCC 14718 / DSM 1338 / AM1),272630,Non-Viral_Bacteria,2
+Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath),243233,Non-Viral_Bacteria,2
+Methylophilus methylotrophus,17,Non-Viral_Bacteria,2
+Micrococcus luteus,1270,Non-Viral_Bacteria,2
+Micromonospora viridifaciens,1881,Non-Viral_Bacteria,2
+Moorella thermoacetica (strain ATCC 39073),264732,Non-Viral_Bacteria,2
+Moritella marina,90736,Non-Viral_Bacteria,2
+Mycobacterium avium,1764,Non-Viral_Bacteria,2
+Mycobacterium fortuitum,1766,Non-Viral_Bacteria,2
+Mycobacterium leprae (strain TN),272631,Non-Viral_Bacteria,2
+Mycobacterium paratuberculosis (strain ATCC BAA-968 / K-10),262316,Non-Viral_Bacteria,2
+Mycobacterium smegmatis,1772,Non-Viral_Bacteria,2
+Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155),246196,Non-Viral_Bacteria,2
+Mycobacterium tuberculosis,1773,Non-Viral_Bacteria,2
+Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),83332,Non-Viral_Bacteria,2
+Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh),83331,Non-Viral_Bacteria,2
+Mycoplasma pneumoniae (strain ATCC 29342 / M129),272634,Non-Viral_Bacteria,2
+Myxococcus xanthus,34,Non-Viral_Bacteria,2
+Neisseria gonorrhoeae,485,Non-Viral_Bacteria,2
+Neisseria meningitidis,487,Non-Viral_Bacteria,2
+Neisseria meningitidis serogroup B (strain MC58),122586,Non-Viral_Bacteria,2
+Neisseria polysaccharea,489,Non-Viral_Bacteria,2
+Nitrosomonas europaea (strain ATCC 19718 / NBRC 14298),228410,Non-Viral_Bacteria,2
+Niveispirillum irakense,34011,Non-Viral_Bacteria,2
+Nocardia aerocolonigenes,68170,Non-Viral_Bacteria,2
+Nocardioides simplex,2045,Non-Viral_Bacteria,2
+Nostoc ellipsosporum,45916,Non-Viral_Bacteria,2
+Nostoc sp. (strain ATCC 29151 / PCC 7119),1168,Non-Viral_Bacteria,2
+Nostoc sp. (strain PCC 7120 / UTEX 2576),103690,Non-Viral_Bacteria,2
+Ochrobactrum anthropi,529,Non-Viral_Bacteria,2
+Oxalobacter formigenes,847,Non-Viral_Bacteria,2
+Paenibacillus macerans,44252,Non-Viral_Bacteria,2
+Paenibacillus polymyxa,1406,Non-Viral_Bacteria,2
+Paracoccus denitrificans,266,Non-Viral_Bacteria,2
+Paracoccus pantotrophus,82367,Non-Viral_Bacteria,2
+Pectobacterium carotovorum,554,Non-Viral_Bacteria,2
+Pectobacterium carotovorum subsp. carotovorum,555,Non-Viral_Bacteria,2
+Pectobacterium chrysanthemi,556,Non-Viral_Bacteria,2
+Pedobacter heparinus (strain ATCC 13125 / DSM 2366 / NCIB 9290),485917,Non-Viral_Bacteria,2
+Peptoclostridium difficile,1496,Non-Viral_Bacteria,2
+Peptoclostridium difficile (strain 630),272563,Non-Viral_Bacteria,2
+Phaeospirillum molischianum,1083,Non-Viral_Bacteria,2
+Photobacterium leiognathi,553611,Non-Viral_Bacteria,2
+Porphyromonas gingivalis (strain ATCC BAA-308 / W83),242619,Non-Viral_Bacteria,2
+Propionibacterium acnes,267747,Non-Viral_Bacteria,2
+Propionibacterium freudenreichii subsp. shermanii,1752,Non-Viral_Bacteria,2
+Propionigenium modestum,2333,Non-Viral_Bacteria,2
+Prosthecochloris aestuarii,1102,Non-Viral_Bacteria,2
+Proteus hauseri,183417,Non-Viral_Bacteria,2
+Proteus mirabilis,584,Non-Viral_Bacteria,2
+Proteus vulgaris,585,Non-Viral_Bacteria,2
+Pseudoalteromonas haloplanktis,228,Non-Viral_Bacteria,2
+Pseudomonas aeruginosa,287,Non-Viral_Bacteria,2
+Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228),208964,Non-Viral_Bacteria,2
+Pseudomonas cepacia ,292,Non-Viral_Bacteria,2
+Pseudomonas denitrificans,43306,Non-Viral_Bacteria,2
+Pseudomonas fluorescens,294,Non-Viral_Bacteria,2
+Pseudomonas fluorescens (strain Pf-5 / ATCC BAA-477),220664,Non-Viral_Bacteria,2
+Pseudomonas fragi,296,Non-Viral_Bacteria,2
+Pseudomonas knackmussii (strain DSM 6978 / LMG 23759 / B13),1301098,Non-Viral_Bacteria,2
+Pseudomonas maltophilia,40324,Non-Viral_Bacteria,2
+Pseudomonas marginata,28095,Non-Viral_Bacteria,2
+Pseudomonas mevalonii,32044,Non-Viral_Bacteria,2
+Pseudomonas putida,303,Non-Viral_Bacteria,2
+Pseudomonas putida (strain DOT-T1E),1196325,Non-Viral_Bacteria,2
+Pseudomonas putida (strain F1 / ATCC 700007),351746,Non-Viral_Bacteria,2
+Pseudomonas putida (strain KT2440),160488,Non-Viral_Bacteria,2
+Pseudomonas resinovorans,53412,Non-Viral_Bacteria,2
+Pseudomonas sp. (strain 101),33067,Non-Viral_Bacteria,2
+Pseudomonas sp. (strain ACP),74568,Non-Viral_Bacteria,2
+Pseudomonas sp. (strain C18),69011,Non-Viral_Bacteria,2
+Pseudomonas sp. (strain CBS-3),72586,Non-Viral_Bacteria,2
+Pseudomonas sp. (strain KKS102),307,Non-Viral_Bacteria,2
+Pseudomonas sp. (strain KWI-56),311,Non-Viral_Bacteria,2
+Pseudomonas sp. (strain YL),66693,Non-Viral_Bacteria,2
+Pseudomonas sp. DJ-12,74138,Non-Viral_Bacteria,2
+Pseudomonas stutzeri,316,Non-Viral_Bacteria,2
+Pseudomonas syringae,317,Non-Viral_Bacteria,2
+Pseudomonas syringae pv. tomato (strain DC3000),223283,Non-Viral_Bacteria,2
+Ralstonia pickettii,329,Non-Viral_Bacteria,2
+Rhizobium loti (strain MAFF303099),266835,Non-Viral_Bacteria,2
+Rhizobium sp. (strain NGR234),394,Non-Viral_Bacteria,2
+Rhizobium sp. (strain NHG3),196607,Non-Viral_Bacteria,2
+Rhodobacter blasticus,1075,Non-Viral_Bacteria,2
+Rhodobacter capsulatus,1061,Non-Viral_Bacteria,2
+Rhodobacter sphaeroides,1063,Non-Viral_Bacteria,2
+Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DSM 158),272943,Non-Viral_Bacteria,2
+Rhodoblastus acidophilus,1074,Non-Viral_Bacteria,2
+Rhodococcus erythropolis,1833,Non-Viral_Bacteria,2
+Rhodococcus jostii (strain RHA1),101510,Non-Viral_Bacteria,2
+Rhodococcus opacus,37919,Non-Viral_Bacteria,2
+Rhodococcus sp.,1831,Non-Viral_Bacteria,2
+Rhodococcus sp. (strain IGTS8),54064,Non-Viral_Bacteria,2
+Rhodococcus sp. (strain MB1 Bresler),104109,Non-Viral_Bacteria,2
+Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),258594,Non-Viral_Bacteria,2
+Rhodospirillum centenum,34018,Non-Viral_Bacteria,2
+Rhodospirillum rubrum,1085,Non-Viral_Bacteria,2
+Ruegeria pomeroyi (strain ATCC 700808 / DSM 15171 / DSS-3),246200,Non-Viral_Bacteria,2
+Ruminococcus gnavus ATCC 29149,411470,Non-Viral_Bacteria,2
+Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338),405948,Non-Viral_Bacteria,2
+Salmonella enteritidis,149539,Non-Viral_Bacteria,2
+Salmonella typhi,90370,Non-Viral_Bacteria,2
+Salmonella typhimurium,90371,Non-Viral_Bacteria,2
+Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720),99287,Non-Viral_Bacteria,2
+Selenomonas ruminantium,971,Non-Viral_Bacteria,2
+Serratia marcescens,615,Non-Viral_Bacteria,2
+Shewanella frigidimarina,56812,Non-Viral_Bacteria,2
+Shewanella frigidimarina (strain NCIMB 400),318167,Non-Viral_Bacteria,2
+Shewanella massilia,76854,Non-Viral_Bacteria,2
+Shewanella oneidensis (strain MR-1),211586,Non-Viral_Bacteria,2
+Shewanella sp.,50422,Non-Viral_Bacteria,2
+Shigella flexneri,623,Non-Viral_Bacteria,2
+Shigella sonnei,624,Non-Viral_Bacteria,2
+Sphingobium fuliginis (strain ATCC 27551),336203,Non-Viral_Bacteria,2
+Sphingomonas paucimobilis,13689,Non-Viral_Bacteria,2
+Sphingomonas sp.,28214,Non-Viral_Bacteria,2
+Sporosarcina globispora,1459,Non-Viral_Bacteria,2
+Sporosarcina pasteurii,1474,Non-Viral_Bacteria,2
+Staphylococcus aureus,1280,Non-Viral_Bacteria,2
+Staphylococcus aureus (strain bovine RF122 / ET3-1),273036,Non-Viral_Bacteria,2
+Staphylococcus aureus (strain COL),93062,Non-Viral_Bacteria,2
+Staphylococcus aureus (strain MRSA252),282458,Non-Viral_Bacteria,2
+Staphylococcus aureus (strain Mu50 / ATCC 700699),158878,Non-Viral_Bacteria,2
+Staphylococcus aureus (strain MW2),196620,Non-Viral_Bacteria,2
+Staphylococcus aureus (strain NCTC 8325),93061,Non-Viral_Bacteria,2
+Staphylococcus aureus (strain USA300),367830,Non-Viral_Bacteria,2
+Staphylococcus epidermidis,1282,Non-Viral_Bacteria,2
+Staphylococcus haemolyticus,1283,Non-Viral_Bacteria,2
+Staphylococcus haemolyticus (strain JCSC1435),279808,Non-Viral_Bacteria,2
+Streptococcus agalactiae serotype Ia (strain ATCC 27591 / A909 / CDC SS700),205921,Non-Viral_Bacteria,2
+Streptococcus agalactiae serotype III (strain NEM316),211110,Non-Viral_Bacteria,2
+Streptococcus dysgalactiae subsp. equisimilis,119602,Non-Viral_Bacteria,2
+Streptococcus mutans serotype c (strain ATCC 700610 / UA159),210007,Non-Viral_Bacteria,2
+Streptococcus pneumoniae,1313,Non-Viral_Bacteria,2
+Streptococcus pneumoniae (strain ATCC BAA-255 / R6),171101,Non-Viral_Bacteria,2
+Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4),170187,Non-Viral_Bacteria,2
+Streptococcus pyogenes,1314,Non-Viral_Bacteria,2
+Streptococcus pyogenes serotype M1,301447,Non-Viral_Bacteria,2
+Streptococcus sp. group G,1320,Non-Viral_Bacteria,2
+Streptococcus suis,1307,Non-Viral_Bacteria,2
+Streptomyces antibioticus,1890,Non-Viral_Bacteria,2
+Streptomyces aureofaciens,1894,Non-Viral_Bacteria,2
+Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680),227882,Non-Viral_Bacteria,2
+Streptomyces avidinii,1895,Non-Viral_Bacteria,2
+Streptomyces azureus,146537,Non-Viral_Bacteria,2
+Streptomyces carzinostaticus,1897,Non-Viral_Bacteria,2
+Streptomyces cattleya,29303,Non-Viral_Bacteria,2
+Streptomyces clavuligerus,1901,Non-Viral_Bacteria,2
+Streptomyces coelicolor,1902,Non-Viral_Bacteria,2
+Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145),100226,Non-Viral_Bacteria,2
+Streptomyces exfoliatus,1905,Non-Viral_Bacteria,2
+Streptomyces galilaeus,33899,Non-Viral_Bacteria,2
+Streptomyces globisporus,1908,Non-Viral_Bacteria,2
+Streptomyces griseoverticillatus,68215,Non-Viral_Bacteria,2
+Streptomyces griseus,1911,Non-Viral_Bacteria,2
+Streptomyces griseus subsp. griseus (strain JCM 4626 / NBRC 13350),455632,Non-Viral_Bacteria,2
+Streptomyces hygroscopicus subsp. ascomyceticus,132248,Non-Viral_Bacteria,2
+Streptomyces lividans,1916,Non-Viral_Bacteria,2
+Streptomyces malayensis,1918,Non-Viral_Bacteria,2
+Streptomyces nogalater,38314,Non-Viral_Bacteria,2
+Streptomyces olivaceoviridis,1921,Non-Viral_Bacteria,2
+Streptomyces olivochromogenes,1963,Non-Viral_Bacteria,2
+Streptomyces peucetius,1950,Non-Viral_Bacteria,2
+Streptomyces plicatus,1922,Non-Viral_Bacteria,2
+Streptomyces purpurascens,1924,Non-Viral_Bacteria,2
+Streptomyces rubiginosus,1929,Non-Viral_Bacteria,2
+Streptomyces scabiei,1930,Non-Viral_Bacteria,2
+Streptomyces sp.,1931,Non-Viral_Bacteria,2
+Streptomyces sp. (strain CL190),93372,Non-Viral_Bacteria,2
+Streptomyces sp. (strain PMF),172564,Non-Viral_Bacteria,2
+Streptomyces sp. (strain R61),31952,Non-Viral_Bacteria,2
+Streptomyces sp. (strain SA-COO),74576,Non-Viral_Bacteria,2
+Streptomyces sp. TP-A0274,171258,Non-Viral_Bacteria,2
+Streptomyces venezuelae,54571,Non-Viral_Bacteria,2
+Streptomyces venezuelae (strain ATCC 10712 / CBS 650.69 / DSM 40230 / JCM 4526 / NBRC 13096 / PD 04745),953739,Non-Viral_Bacteria,2
+Synechococcus elongatus (strain PCC 7942),1140,Non-Viral_Bacteria,2
+Synechococcus sp. (strain ATCC 27144 / PCC 6301 / SAUG 1402/1),269084,Non-Viral_Bacteria,2
+Synechocystis sp. (strain PCC 6714),1147,Non-Viral_Bacteria,2
+Synechocystis sp. (strain PCC 6803 / Kazusa),1111708,Non-Viral_Bacteria,2
+Syntrophus aciditrophicus (strain SB),56780,Non-Viral_Bacteria,2
+Thermoactinomyces vulgaris,2026,Non-Viral_Bacteria,2
+Thermoanaerobacter brockii,29323,Non-Viral_Bacteria,2
+Thermoanaerobacterium thermosulfurigenes,33950,Non-Viral_Bacteria,2
+Thermobifida fusca,2021,Non-Viral_Bacteria,2
+Thermobifida fusca (strain YX),269800,Non-Viral_Bacteria,2
+Thermochromatium tepidum,1050,Non-Viral_Bacteria,2
+Thermosynechococcus elongatus (strain BP-1),197221,Non-Viral_Bacteria,2
+Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099),243274,Non-Viral_Bacteria,2
+Thermus aquaticus,271,Non-Viral_Bacteria,2
+Thermus sp.,275,Non-Viral_Bacteria,2
+Thermus sp. IM6501,75891,Non-Viral_Bacteria,2
+Thermus thermophilus,274,Non-Viral_Bacteria,2
+Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039),262724,Non-Viral_Bacteria,2
+Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579),300852,Non-Viral_Bacteria,2
+Thioalkalivibrio nitratireducens (strain DSM 14787 / UNIQEM 213 / ALEN2),1255043,Non-Viral_Bacteria,2
+Treponema denticola (strain ATCC 35405 / CIP 103919 / DSM 14222),243275,Non-Viral_Bacteria,2
+Treponema pallidum (strain Nichols),243276,Non-Viral_Bacteria,2
+uncultured bacterium CSLC2,1091571,Non-Viral_Bacteria,2
+Unknown prokaryotic organism,2725,Non-Viral_Bacteria,2
+Ureaplasma parvum serovar 3 (strain ATCC 700970),273119,Non-Viral_Bacteria,2
+Vibrio cholerae,666,Non-Viral_Bacteria,2
+Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961),243277,Non-Viral_Bacteria,2
+Vibrio harveyi,669,Non-Viral_Bacteria,2
+Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633),223926,Non-Viral_Bacteria,2
+Vibrio proteolyticus,671,Non-Viral_Bacteria,2
+Vibrio sp. PA-44,210249,Non-Viral_Bacteria,2
+Vitreoscilla stercoraria,61,Non-Viral_Bacteria,2
+Wolinella succinogenes,844,Non-Viral_Bacteria,2
+Wolinella succinogenes (strain ATCC 29543 / DSM 1740 / LMG 7466 / NCTC 11488 / FDC 602W),273121,Non-Viral_Bacteria,2
+Xanthobacter autotrophicus,280,Non-Viral_Bacteria,2
+Xanthobacter autotrophicus (strain ATCC BAA-1158 / Py2),78245,Non-Viral_Bacteria,2
+Xanthomonas campestris pv. campestris (strain ATCC 33913 / DSM 3586 / NCPPB 528 / LMG 568 / P 25),190485,Non-Viral_Bacteria,2
+Yersinia enterocolitica,630,Non-Viral_Bacteria,2
+Yersinia pestis,632,Non-Viral_Bacteria,2
+Yersinia pseudotuberculosis serotype I (strain IP32953),273123,Non-Viral_Bacteria,2
+Zoogloea ramigera,350,Non-Viral_Bacteria,2
+Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4),264203,Non-Viral_Bacteria,2
+Abelson murine leukemia virus,11788,vertebrates,3
+APMV,212035,protozoa,3
+Bacillus phage PBS2,10684,bacteria,3
+Bacteriophage 21,10711,bacteria,3
+Bacteriophage H30,12371,bacteria,3
+BEV,12065,vertebrates,3
+Clostridium botulinum D phage,29342,bacteria,3
+Corynephage omega,10714,bacteria,3
+EHV-4,10333,vertebrates,3
+EIAV,11672,vertebrates,3
+Enterobacteria phage K1F,344021,bacteria,3
+Enterobacteria phage lambda,10710,bacteria,3
+Enterobacteria phage P1,10678,bacteria,3
+Enterobacteria phage P22,10754,bacteria,3
+Enterobacteria phage RB69,12353,bacteria,3
+Enterobacteria phage T4,10665,bacteria,3
+Enterobacteria phage T7,10760,bacteria,3
+Enterovirus J,1330521,vertebrates,3
+FIV,11674,vertebrates,3
+MPyV,47935,vertebrates,3
+PBCV-1,10506,NA,3
+Pseudomonas phage phi12,161736,bacteria,3
+Pseudomonas phage phi6,10879,bacteria,3
+RSV-SRA,269446,vertebrates,3
+RSV-SR-E,270623,vertebrates,3
+SaHV-2,10383,vertebrates,3
+Aspergillus niger (strain CBS 513.88 / FGSC A1513),425011,Manual Curation,0
+Aspergillus terreus,33178,Manual Curation,0
+Baker's yeast,559292,Manual Curation,0
+Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),272569,Manual Curation,0
+Leishmania major,5664,Manual Curation,1
+Neosartorya fumigata,746128,Manual Curation,1
+Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100),330879,Manual Curation,1
+Penicillium citrinum,5077,Manual Curation,0
+Plasmodium falciparum,5833,Manual Curation,1
+Plasmodium falciparum (isolate 3D7),36329,Manual Curation,1
+Plasmodium falciparum (isolate CDC / Honduras),5836,Manual Curation,1
+Plasmodium falciparum (isolate FC27 / Papua New Guinea),5837,Manual Curation,1
+Plasmodium falciparum (isolate FCR-3 / Gambia),5838,Manual Curation,1
+Plasmodium falciparum (isolate HB3),137071,Manual Curation,1
+Plasmodium falciparum (isolate K1 / Thailand),5839,Manual Curation,1
+Pneumocystis carinii,4754,Manual Curation,1
+Trypanosoma brucei,5691,Manual Curation,1
+Trypanosoma brucei brucei,5702,Manual Curation,1
+Trypanosoma brucei brucei (strain 927/4 GUTat10.1),185431,Manual Curation,1
+Trypanosoma cruzi,5693,Manual Curation,1
+Trypanosoma vivax,5699,Manual Curation,1
+Yeast,237561,Manual Curation,0

@@ -1,0 +1,352 @@
+
+Cluster 1 - 6 pathways:
+
+Pancreatic secretion
+Fat digestion and absorption
+Vitamin digestion and absorption
+Glycerolipid metabolism
+Protein digestion and absorption
+Mineral absorption
+
+Cluster 2 - 99 pathways:
+
+Oxidative phosphorylation
+Metabolic pathways
+Non-alcoholic fatty liver disease (NAFLD)
+Apoptosis
+Glutathione metabolism
+Huntington disease
+Ferroptosis
+Porphyrin and chlorophyll metabolism
+Tryptophan metabolism
+Arginine biosynthesis
+Arachidonic acid metabolism
+RNA polymerase
+Drug metabolism - other enzymes
+Fatty acid degradation
+Metabolism of xenobiotics by cytochrome P450
+Steroid hormone biosynthesis
+Glycine, serine and threonine metabolism
+Arginine and proline metabolism
+Nitrogen metabolism
+Lysine degradation
+Pyrimidine metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series
+Platinum drug resistance
+Ether lipid metabolism
+Propanoate metabolism
+Phenylalanine metabolism
+beta-Alanine metabolism
+Butanoate metabolism
+Parkinson disease
+Glycosphingolipid biosynthesis - lacto and neolacto series
+Inositol phosphate metabolism
+Folate biosynthesis
+Other types of O-glycan biosynthesis
+Chemical carcinogenesis
+Histidine metabolism
+Drug metabolism - cytochrome P450
+Protein processing in endoplasmic reticulum
+Citrate cycle (TCA cycle)
+Valine, leucine and isoleucine degradation
+Vibrio cholerae infection
+Tyrosine metabolism
+Retinol metabolism
+Purine metabolism
+Proximal tubule bicarbonate reclamation
+N-Glycan biosynthesis
+Peroxisome
+Glycolysis  Gluconeogenesis
+Cysteine and methionine metabolism
+Type I diabetes mellitus
+Necroptosis
+Valine, leucine and isoleucine biosynthesis
+Ubiquinone and other terpenoid-quinone biosynthesis
+Galactose metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate  heparin
+Mucin type O-glycan biosynthesis
+Starch and sucrose metabolism
+2-Oxocarboxylic acid metabolism
+Ascorbate and aldarate metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate  dermatan sulfate
+Mannose type O-glycan biosynthesis
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+Sulfur relay system
+Steroid biosynthesis
+Caffeine metabolism
+Neomycin, kanamycin and gentamicin biosynthesis
+alpha-Linolenic acid metabolism
+Protein export
+Fructose and mannose metabolism
+Phosphonate and phosphinate metabolism
+Biotin metabolism
+Synthesis and degradation of ketone bodies
+Selenocompound metabolism
+Primary bile acid biosynthesis
+Amino sugar and nucleotide sugar metabolism
+Glycosphingolipid biosynthesis - ganglio series
+Lipoic acid metabolism
+Sulfur metabolism
+Apoptosis - multiple species
+Fatty acid biosynthesis
+Glyoxylate and dicarboxylate metabolism
+Terpenoid backbone biosynthesis
+Biosynthesis of unsaturated fatty acids
+D-Arginine and D-ornithine metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate
+Riboflavin metabolism
+Nicotinate and nicotinamide metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis
+Thiamine metabolism
+Alanine, aspartate and glutamate metabolism
+Fatty acid elongation
+Pyruvate metabolism
+Vitamin B6 metabolism
+Pantothenate and CoA biosynthesis
+D-Glutamine and D-glutamate metabolism
+Pentose phosphate pathway
+Taurine and hypotaurine metabolism
+Pentose and glucuronate interconversions
+Other glycan degradation
+Linoleic acid metabolism
+
+Cluster 3 - 33 pathways:
+
+Calcium signaling pathway
+Alzheimer disease
+Thyroid hormone synthesis
+Renin-angiotensin system
+Renin secretion
+Salivary secretion
+Cushing syndrome
+Neuroactive ligand-receptor interaction
+Gap junction
+Retrograde endocannabinoid signaling
+Dopaminergic synapse
+Adrenergic signaling in cardiomyocytes
+Gastric acid secretion
+Cardiac muscle contraction
+Cortisol synthesis and secretion
+Serotonergic synapse
+Glutamatergic synapse
+Apelin signaling pathway
+Cocaine addiction
+Vascular smooth muscle contraction
+Amphetamine addiction
+Phosphatidylinositol signaling system
+Cholinergic synapse
+Insulin secretion
+Carbohydrate digestion and absorption
+cGMP-PKG signaling pathway
+GABAergic synapse
+Taste transduction
+Long-term potentiation
+Long-term depression
+Morphine addiction
+Phototransduction
+Nicotine addiction
+
+Cluster 4 - 69 pathways:
+
+cAMP signaling pathway
+Pathways in cancer
+PI3K-Akt signaling pathway
+Bile secretion
+Cytokine-cytokine receptor interaction
+Cholesterol metabolism
+Prostate cancer
+Hematopoietic cell lineage
+Acute myeloid leukemia
+Wnt signaling pathway
+Human papillomavirus infection
+Chemokine signaling pathway
+Insulin signaling pathway
+p53 signaling pathway
+AGE-RAGE signaling pathway in diabetic complications
+Transcriptional misregulation in cancer
+EGFR tyrosine kinase inhibitor resistance
+JAK-STAT signaling pathway
+TGF-beta signaling pathway
+Notch signaling pathway
+Human cytomegalovirus infection
+Type II diabetes mellitus
+Maturity onset diabetes of the young
+Proteoglycans in cancer
+MicroRNAs in cancer
+Estrogen signaling pathway
+Hippo signaling pathway
+ErbB signaling pathway
+Cytosolic DNA-sensing pathway
+Hippo signaling pathway - multiple species
+Longevity regulating pathway
+Aldosterone synthesis and secretion
+Parathyroid hormone synthesis, secretion and action
+Endocrine resistance
+Small cell lung cancer
+Adherens junction
+Insulin resistance
+FoxO signaling pathway
+Thyroid hormone signaling pathway
+Endocrine and other factor-regulated calcium reabsorption
+Tight junction
+Cellular senescence
+Inflammatory bowel disease (IBD)
+Measles
+Sphingolipid signaling pathway
+Regulation of lipolysis in adipocytes
+HIF-1 signaling pathway
+Central carbon metabolism in cancer
+Basal cell carcinoma
+Aldosterone-regulated sodium reabsorption
+Breast cancer
+Melanogenesis
+Non-small cell lung cancer
+Hepatocellular carcinoma
+Gastric cancer
+Longevity regulating pathway - multiple species
+Endometrial cancer
+Cell cycle
+Sphingolipid metabolism
+Relaxin signaling pathway
+Olfactory transduction
+Melanoma
+Signaling pathways regulating pluripotency of stem cells
+Glucagon signaling pathway
+Hedgehog signaling pathway
+Ubiquitin mediated proteolysis
+Pancreatic cancer
+Chronic myeloid leukemia
+Prolactin signaling pathway
+
+Cluster 5 - 3 pathways:
+
+AMPK signaling pathway
+Adipocytokine signaling pathway
+PPAR signaling pathway
+
+Cluster 6 - 4 pathways:
+
+Autophagy - animal
+Prion diseases
+mTOR signaling pathway
+Mitophagy - animal
+
+Cluster 7 - 36 pathways:
+
+Complement and coagulation cascades
+Pertussis
+MAPK signaling pathway
+Thermogenesis
+Staphylococcus aureus infection
+IL-17 signaling pathway
+Fc epsilon RI signaling pathway
+Leishmaniasis
+Phagosome
+Th17 cell differentiation
+Thyroid cancer
+Rheumatoid arthritis
+Fluid shear stress and atherosclerosis
+Bladder cancer
+C-type lectin receptor signaling pathway
+Epithelial cell signaling in Helicobacter pylori infection
+Ovarian steroidogenesis
+GnRH signaling pathway
+Osteoclast differentiation
+T cell receptor signaling pathway
+Amyotrophic lateral sclerosis (ALS)
+Primary immunodeficiency
+Lysosome
+Oxytocin signaling pathway
+VEGF signaling pathway
+Glycosaminoglycan degradation
+Alcoholism
+Neurotrophin signaling pathway
+Th1 and Th2 cell differentiation
+Progesterone-mediated oocyte maturation
+Circadian entrainment
+Inflammatory mediator regulation of TRP channels
+Oocyte meiosis
+Glioma
+Renal cell carcinoma
+B cell receptor signaling pathway
+
+Cluster 8 - 43 pathways:
+
+Toll-like receptor signaling pathway
+Malaria
+African trypanosomiasis
+Antigen processing and presentation
+Epstein-Barr virus infection
+Spliceosome
+Herpes simplex virus 1 infection
+Asthma
+Cell adhesion molecules (CAMs)
+Systemic lupus erythematosus
+Human T-cell leukemia virus 1 infection
+Proteasome
+Hepatitis B
+Influenza A
+RIG-I-like receptor signaling pathway
+Hepatitis C
+mRNA surveillance pathway
+RNA degradation
+Chagas disease (American trypanosomiasis)
+Salmonella infection
+Kaposi sarcoma-associated herpesvirus infection
+NOD-like receptor signaling pathway
+NF-kappa B signaling pathway
+Circadian rhythm
+Natural killer cell mediated cytotoxicity
+Human immunodeficiency virus 1 infection
+Basal transcription factors
+Viral carcinogenesis
+Nucleotide excision repair
+TNF signaling pathway
+RNA transport
+Tuberculosis
+Antifolate resistance
+Legionellosis
+One carbon pool by folate
+Intestinal immune network for IgA production
+Ribosome biogenesis in eukaryotes
+Allograft rejection
+Toxoplasmosis
+Autoimmune thyroid disease
+Graft-versus-host disease
+Ribosome
+Viral myocarditis
+
+Cluster 9 - 17 pathways:
+
+Focal adhesion
+ECM-receptor interaction
+Regulation of actin cytoskeleton
+Leukocyte transendothelial migration
+Rap1 signaling pathway
+Platelet activation
+Amoebiasis
+Fc gamma R-mediated phagocytosis
+Glycerophospholipid metabolism
+Choline metabolism in cancer
+Axon guidance
+Bacterial invasion of epithelial cells
+Hypertrophic cardiomyopathy (HCM)
+Dilated cardiomyopathy (DCM)
+Pathogenic Escherichia coli infection
+Shigellosis
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+
+Cluster 10 - 5 pathways:
+
+Phospholipase D signaling pathway
+Endocytosis
+Ras signaling pathway
+Synaptic vesicle cycle
+Vasopressin-regulated water reabsorption
+
+Cluster 11 - 4 pathways:
+
+Mismatch repair
+Colorectal cancer
+Fanconi anemia pathway
+Homologous recombination

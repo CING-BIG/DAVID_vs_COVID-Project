@@ -1,0 +1,67 @@
+Drug Name,Max Norm Ranking,List ID,Within Top 20 List ID,Clusternew,Target Organism
+dexamethasone,1,"Tr1 - Series 1-7, TrC1 - Series 1-7","Tr1 - Series 1-7, TrC1 - Series 1-7, TrC2 - Series 15",1,Human
+atorvastatin,1,Tr2 - Series 15,,21,Human
+beta-estradiol,1,TrC4 - PBMC,,24,Human
+vorinostat,1,Tr3 - BALF,,35,Human
+olanzapine,1,Tr4 - PBMC,,54,Human
+cyclosporin a,1,TrC3 - BALF,"TrC3 - BALF, TrC1 - Series 1-7",74,Human
+rosiglitazone,1,TrC2 - Series 15,"TrC2 - Series 15, TrC4 - PBMC",89,Human
+bosutinib,1,GW,,135,Human
+zinc acetate,1,HPH,,148,Human
+benzyl (2-oxopropyl)carbamate,1,HPAV,"HPAV, TaxAV",162,SARS-CoV
+Remdesivir,1,TaxAV,"TaxAV, HPAV",168,SARS-CoV
+dasatinib,0.947368421,"Tr1 - Series 1-7, Tr3 - BALF","Tr1 - Series 1-7, Tr3 - BALF",2,Human
+mercaptopurine,0.947368421,Tr4 - PBMC,"Tr4 - PBMC, GW",55,Human
+"2-[(2,4-DICHLORO-5-METHYLPHENYL)SULFONYL]-1,3-DINITRO-5-(TRIFLUOROMETHYL)BENZENE",0.947368421,HPAV,"HPAV, TaxAV",163,SARS-CoV
+raloxifene,0.947368421,TrC1 - Series 1-7,,72,Human
+cytarabine,0.947368421,TrC3 - BALF,,107,Human
+imatinib,0.947368421,TrC4 - PBMC,,120,Human
+alcohol,0.947368421,GW,,136,Human
+selumetinib,0.894736842,Tr1 - Series 1-7,,3,Human
+azd-8055,0.894736842,Tr2 - Series 15,,22,Human
+avrainvillamide-analog-3,0.894736842,Tr3 - BALF,,36,Human
+linsitinib,0.894736842,Tr4 - PBMC,,56,Human
+fluocinolone acetonide,0.894736842,TrC2 - Series 15,,90,Human
+dobutamine,0.894736842,TrC3 - BALF,,108,Human
+bromfenac,0.894736842,TrC4 - PBMC,,121,Human
+testosterone,0.894736842,GW,,123,Human
+hydroxychloroquine,0.894736842,HPH,,149,Human
+hydroxyurea,0.894736842,TrC1 - Series 1-7,"TrC1 - Series 1-7, TrC3 - BALF",73,Human
+"S-[5-(TRIFLUOROMETHYL)-4H-1,2,4-TRIAZOL-3-YL] 5-(PHENYLETHYNYL)FURAN-2-CARBOTHIOATE",0.894736842,HPAV,"HPAV, TaxAV",164,SARS-CoV
+daunorubicin,0.842105263,Tr1 - Series 1-7,"Tr1 - Series 1-7, TrC1 - Series 1-7",4,Human
+pd-0325901,0.842105263,Tr2 - Series 15,"Tr2 - Series 15, Tr1 - Series 1-7",9,Human
+zidovudine,0.842105263,TrC2 - Series 15,"TrC2 - Series 15, HPAV",91,Human
+5-amino-2-methyl-N-[(1R)-1-naphthalen-1-ylethyl]benzamide,0.842105263,HPAV,"HPAV, TaxAV",165,SARS-CoV
+ag-14361,0.842105263,Tr3 - BALF,,37,Human
+nvp-bez235,0.842105263,Tr4 - PBMC,,57,Human
+carboplatin,0.842105263,TrC3 - BALF,,109,Human
+zileuton,0.842105263,TrC4 - PBMC,,122,Human
+staurosporine,0.842105263,GW,,137,Human
+fasudil,0.789473684,Tr2 - Series 15,,23,Human
+gsk-1059615,0.789473684,Tr3 - BALF,,38,Human
+pi 103 hydrochloride,0.789473684,Tr4 - PBMC,,58,Human
+hexachlorophene,0.789473684,TrC1 - Series 1-7,,75,Human
+ofloxacin,0.789473684,TrC2 - Series 15,,92,Human
+leflunomide,0.789473684,TrC3 - BALF,,110,Human
+prasterone,0.789473684,GW,,138,Human
+n-(2-aminoethyl)-1-aziridineethanamine,0.789473684,HPH,,150,Human
+triptolide,0.789473684,Tr1 - Series 1-7,,5,Human
+NALPHA-[(BENZYLOXY)CARBONYL]-N-[(1R)-4-HYDROXY-1-METHYL-2-OXOBUTYL]-L-PHENYLALANINAMIDE,0.789473684,HPAV,"HPAV, TaxAV",166,SARS-CoV
+y-27632,0.736842105,Tr1 - Series 1-7,,6,Human
+4-(Dimethylamino)benzoic acid,0.736842105,HPAV,"HPAV, TaxAV",167,SARS-CoV
+saracatinib,0.736842105,Tr3 - BALF,,39,Human
+ly-255283,0.736842105,Tr4 - PBMC,,59,Human
+rofecoxib,0.736842105,TrC1 - Series 1-7,,76,Human
+simvastatin,0.736842105,GW,,81,Human
+ebastine,0.736842105,TrC2 - Series 15,,93,Human
+cisplatin,0.736842105,TrC3 - BALF,,111,Human
+hydroquinone,0.736842105,TrC4 - PBMC,,124,Human
+calcium citrate,0.736842105,HPH,,151,Human
+jak3-inhibitor-i,0.684210526,Tr1 - Series 1-7,,7,Human
+pracinostat,0.684210526,Tr3 - BALF,,40,Human
+blebbistatin,0.684210526,Tr4 - PBMC,,60,Human
+pioglitazone,0.684210526,TrC1 - Series 1-7,,77,Human
+tegafur,0.684210526,TrC2 - Series 15,,94,Human
+choline salicylate,0.684210526,HPH,,114,Human
+methotrexate,0.684210526,TrC4 - PBMC,"TrC4 - PBMC, TrC1 - Series 1-7",82,Human
+clofibrate,0.684210526,TrC3 - BALF,"TrC3 - BALF, TrC2 - Series 15",106,Human
