@@ -10,6 +10,29 @@ Corresponding Author George Spyrou email: georges@cing.ac.cy
 
 Scripts description:
 
+integration_github_part1.R
+By Margarita Zachariou
+email: margaritaz@cing.ac.cy
+The script takes as an input lists of genes from multiple sources which include gene symbols, 
+entrez ids, original scores and ranks (if available) and normalised scores (weights)
+All gene lists have been manually curated to annotate which genes can not be found in the Genemania database
+	 *  ranked genes lists in terms of absolute logFC from three serum transcriptomic (T) datasets (Series 15, BALF, PBMC)[6],
+	 *  ranked genes lists in terms of absolute log fold from one proteomics (P) dataset[5]
+	 *  ranked genes lists in terms of p-value from one metabolomics (M) dataset[5]
+	 *  unranked list of host proteins (PPI) which interact with SARS-CoV-2 from Gordon et al.[8]
+	 *  unranked unique gene list from HPA, excluding the genes identified in Gordon et al.
+The output of this script is used as an input to Cytoscape to generate the genemania network 
+and as an input to integration_part2 to complete the integration process.
+
+integration_github_part2.R
+By Margarita Zachariou
+email: margaritaz@cing.ac.cy 
+Takes as input the integration based on the node score table (df_int_filtered) and the 
+Genemania network files
+The edge score is callculated and combined to the node score to obtain the overall integration score.
+The output of this script is used as an input to IntegrationNet.R to plot the integration network 
+and as an input to CODRES and Pathwalks tools.
+
 IntegrationNet.R:
 By Marios Tomazou
 email: mariost@cing.ac.cy
